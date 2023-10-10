@@ -21,7 +21,7 @@ public class endgame : MonoBehaviour
     // Metodi, joka lopettaa pelin ja palaa p‰‰valikkoon (voit muuttaa t‰m‰n tarpeidesi mukaan)
     public void QuitGame()
     {
-        Debug.Log("Peli loppui");
+        //Debug.Log("Peli loppui");
         QuitGame();
     }
 }
