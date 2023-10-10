@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:gamejam 2023/Assets/rassen assetit/BarProps/Textures/asd/aas/Materials/OldSchoolBarstoolBacked_OldShoolBarstoolBacked-material_AlbedoTransparency.mat.meta
 guid: 588ef3590f283e24dbde820dde84d375
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
+=======
+guid: e8500bb515bb7054780f098e95eea7d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>> 3e9138bba1b960f902f2ddfc388ff10508ddb1ba:gamejam 2023/Assets/rassen assetit/BarProps/Textures/OldSchoolBarstool/OldSchoolBarstoolBacked/Materials/OldSchoolBarstoolBacked_OldShoolBarstoolBacked-material_AlbedoTransparency.mat.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
